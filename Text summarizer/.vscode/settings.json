@@ -1,0 +1,6 @@
+{
+    "files.autoSave": "onFocusChange",
+    "files.autoSaveDelay": 1,
+    "files.autoSaveWhenNoErrors": true,
+    "files.autoSaveWorkspaceFilesOnly": true
+}
