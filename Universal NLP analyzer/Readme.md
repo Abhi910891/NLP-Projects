@@ -1,0 +1,3 @@
+Universal NLP Analyzer is an end-to-end Natural Language Processing system that performs comprehensive linguistic, statistical, semantic, machine-learning, and transformer-based analysis on any input text.
+
+It integrates classical NLP, word embeddings, topic modeling, sentiment analysis, text classification, summarization, question answering, and text generation into a unified interactive dashboard.
